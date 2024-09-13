@@ -5,7 +5,8 @@ M2BI_Projet_court_DSSP
 unzip hbplus.zip
 
 # Se déplacer dans le dossier hbplus
-```bash cd hbplus
+```bash
+cd hbplus
 ```
 
 # Mise en place de l'algorithme 

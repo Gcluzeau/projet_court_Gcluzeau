@@ -1,0 +1,13 @@
+name: env_proj_court
+channels:
+    - conda-forge
+    - bioconda
+    - nodefaults
+dependencies:
+    - python
+    - pip
+    - numpy
+    - pandas
+    - Biopython
+    - Bio.PDB
+    - Bio.PDB.DSSP

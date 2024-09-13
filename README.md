@@ -6,6 +6,7 @@ unzip hbplus.zip
 
 # Se déplacer dans le dossier hbplus
 ```bash cd hbplus
+```
 
 # Mise en place de l'algorithme 
 make
